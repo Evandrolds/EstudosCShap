@@ -1,0 +1,15 @@
+D:\WorkSpace-Projects-Visual-Studio\SintaxeFuncoes\SintaxeFuncoes\bin\Debug\net6.0\SintaxeFuncoes.exe
+D:\WorkSpace-Projects-Visual-Studio\SintaxeFuncoes\SintaxeFuncoes\bin\Debug\net6.0\SintaxeFuncoes.deps.json
+D:\WorkSpace-Projects-Visual-Studio\SintaxeFuncoes\SintaxeFuncoes\bin\Debug\net6.0\SintaxeFuncoes.runtimeconfig.json
+D:\WorkSpace-Projects-Visual-Studio\SintaxeFuncoes\SintaxeFuncoes\bin\Debug\net6.0\SintaxeFuncoes.dll
+D:\WorkSpace-Projects-Visual-Studio\SintaxeFuncoes\SintaxeFuncoes\bin\Debug\net6.0\SintaxeFuncoes.pdb
+D:\WorkSpace-Projects-Visual-Studio\SintaxeFuncoes\SintaxeFuncoes\obj\Debug\net6.0\SintaxeFuncoes.csproj.AssemblyReference.cache
+D:\WorkSpace-Projects-Visual-Studio\SintaxeFuncoes\SintaxeFuncoes\obj\Debug\net6.0\SintaxeFuncoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace-Projects-Visual-Studio\SintaxeFuncoes\SintaxeFuncoes\obj\Debug\net6.0\SintaxeFuncoes.AssemblyInfoInputs.cache
+D:\WorkSpace-Projects-Visual-Studio\SintaxeFuncoes\SintaxeFuncoes\obj\Debug\net6.0\SintaxeFuncoes.AssemblyInfo.cs
+D:\WorkSpace-Projects-Visual-Studio\SintaxeFuncoes\SintaxeFuncoes\obj\Debug\net6.0\SintaxeFuncoes.csproj.CoreCompileInputs.cache
+D:\WorkSpace-Projects-Visual-Studio\SintaxeFuncoes\SintaxeFuncoes\obj\Debug\net6.0\SintaxeFuncoes.dll
+D:\WorkSpace-Projects-Visual-Studio\SintaxeFuncoes\SintaxeFuncoes\obj\Debug\net6.0\refint\SintaxeFuncoes.dll
+D:\WorkSpace-Projects-Visual-Studio\SintaxeFuncoes\SintaxeFuncoes\obj\Debug\net6.0\SintaxeFuncoes.pdb
+D:\WorkSpace-Projects-Visual-Studio\SintaxeFuncoes\SintaxeFuncoes\obj\Debug\net6.0\SintaxeFuncoes.genruntimeconfig.cache
+D:\WorkSpace-Projects-Visual-Studio\SintaxeFuncoes\SintaxeFuncoes\obj\Debug\net6.0\ref\SintaxeFuncoes.dll
