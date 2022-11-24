@@ -10,11 +10,11 @@ namespace PrimeirProjetoPOO {
         public double B;
         public double C;
 
-        public double Somar(Triangulo t) {
-            double p = (t.A + t.B + t.C) /2;
+        public double Calcular() {
+            double p = (A + B + C) /2;
 
-            double area = Math.Sqrt(p * (p - t.A) * (p - t.B) * (p - t.C));
-            return area;
+           return  Math.Sqrt(p * (p - A) * (p - B) * (p - C));
+           
         }
     }
 }
