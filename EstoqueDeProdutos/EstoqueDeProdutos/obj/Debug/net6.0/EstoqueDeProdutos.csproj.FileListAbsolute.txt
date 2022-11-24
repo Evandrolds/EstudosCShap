@@ -1,0 +1,15 @@
+D:\WorkSpace-Projects-Visual-Studio\EstoqueDeProdutos\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.exe
+D:\WorkSpace-Projects-Visual-Studio\EstoqueDeProdutos\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.deps.json
+D:\WorkSpace-Projects-Visual-Studio\EstoqueDeProdutos\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.runtimeconfig.json
+D:\WorkSpace-Projects-Visual-Studio\EstoqueDeProdutos\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.dll
+D:\WorkSpace-Projects-Visual-Studio\EstoqueDeProdutos\EstoqueDeProdutos\bin\Debug\net6.0\EstoqueDeProdutos.pdb
+D:\WorkSpace-Projects-Visual-Studio\EstoqueDeProdutos\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.csproj.AssemblyReference.cache
+D:\WorkSpace-Projects-Visual-Studio\EstoqueDeProdutos\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace-Projects-Visual-Studio\EstoqueDeProdutos\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.AssemblyInfoInputs.cache
+D:\WorkSpace-Projects-Visual-Studio\EstoqueDeProdutos\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.AssemblyInfo.cs
+D:\WorkSpace-Projects-Visual-Studio\EstoqueDeProdutos\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.csproj.CoreCompileInputs.cache
+D:\WorkSpace-Projects-Visual-Studio\EstoqueDeProdutos\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.dll
+D:\WorkSpace-Projects-Visual-Studio\EstoqueDeProdutos\EstoqueDeProdutos\obj\Debug\net6.0\refint\EstoqueDeProdutos.dll
+D:\WorkSpace-Projects-Visual-Studio\EstoqueDeProdutos\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.pdb
+D:\WorkSpace-Projects-Visual-Studio\EstoqueDeProdutos\EstoqueDeProdutos\obj\Debug\net6.0\EstoqueDeProdutos.genruntimeconfig.cache
+D:\WorkSpace-Projects-Visual-Studio\EstoqueDeProdutos\EstoqueDeProdutos\obj\Debug\net6.0\ref\EstoqueDeProdutos.dll
