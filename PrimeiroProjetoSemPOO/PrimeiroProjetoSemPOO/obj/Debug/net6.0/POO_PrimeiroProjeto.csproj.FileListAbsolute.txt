@@ -1,0 +1,15 @@
+D:\WorkSpace-Projects-Visual-Studio\POO_PrimeiroProjeto\POO_PrimeiroProjeto\bin\Debug\net6.0\POO_PrimeiroProjeto.exe
+D:\WorkSpace-Projects-Visual-Studio\POO_PrimeiroProjeto\POO_PrimeiroProjeto\bin\Debug\net6.0\POO_PrimeiroProjeto.deps.json
+D:\WorkSpace-Projects-Visual-Studio\POO_PrimeiroProjeto\POO_PrimeiroProjeto\bin\Debug\net6.0\POO_PrimeiroProjeto.runtimeconfig.json
+D:\WorkSpace-Projects-Visual-Studio\POO_PrimeiroProjeto\POO_PrimeiroProjeto\bin\Debug\net6.0\POO_PrimeiroProjeto.dll
+D:\WorkSpace-Projects-Visual-Studio\POO_PrimeiroProjeto\POO_PrimeiroProjeto\bin\Debug\net6.0\POO_PrimeiroProjeto.pdb
+D:\WorkSpace-Projects-Visual-Studio\POO_PrimeiroProjeto\POO_PrimeiroProjeto\obj\Debug\net6.0\POO_PrimeiroProjeto.csproj.AssemblyReference.cache
+D:\WorkSpace-Projects-Visual-Studio\POO_PrimeiroProjeto\POO_PrimeiroProjeto\obj\Debug\net6.0\POO_PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace-Projects-Visual-Studio\POO_PrimeiroProjeto\POO_PrimeiroProjeto\obj\Debug\net6.0\POO_PrimeiroProjeto.AssemblyInfoInputs.cache
+D:\WorkSpace-Projects-Visual-Studio\POO_PrimeiroProjeto\POO_PrimeiroProjeto\obj\Debug\net6.0\POO_PrimeiroProjeto.AssemblyInfo.cs
+D:\WorkSpace-Projects-Visual-Studio\POO_PrimeiroProjeto\POO_PrimeiroProjeto\obj\Debug\net6.0\POO_PrimeiroProjeto.csproj.CoreCompileInputs.cache
+D:\WorkSpace-Projects-Visual-Studio\POO_PrimeiroProjeto\POO_PrimeiroProjeto\obj\Debug\net6.0\POO_PrimeiroProjeto.dll
+D:\WorkSpace-Projects-Visual-Studio\POO_PrimeiroProjeto\POO_PrimeiroProjeto\obj\Debug\net6.0\refint\POO_PrimeiroProjeto.dll
+D:\WorkSpace-Projects-Visual-Studio\POO_PrimeiroProjeto\POO_PrimeiroProjeto\obj\Debug\net6.0\POO_PrimeiroProjeto.pdb
+D:\WorkSpace-Projects-Visual-Studio\POO_PrimeiroProjeto\POO_PrimeiroProjeto\obj\Debug\net6.0\POO_PrimeiroProjeto.genruntimeconfig.cache
+D:\WorkSpace-Projects-Visual-Studio\POO_PrimeiroProjeto\POO_PrimeiroProjeto\obj\Debug\net6.0\ref\POO_PrimeiroProjeto.dll
