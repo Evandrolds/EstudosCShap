@@ -1,0 +1,15 @@
+D:\WorkSpace-Projects-Visual-Studio\ProgramPOOwithProperties\ProgramPOOwithProperties\bin\Debug\net6.0\ProgramPOOwithProperties.exe
+D:\WorkSpace-Projects-Visual-Studio\ProgramPOOwithProperties\ProgramPOOwithProperties\bin\Debug\net6.0\ProgramPOOwithProperties.deps.json
+D:\WorkSpace-Projects-Visual-Studio\ProgramPOOwithProperties\ProgramPOOwithProperties\bin\Debug\net6.0\ProgramPOOwithProperties.runtimeconfig.json
+D:\WorkSpace-Projects-Visual-Studio\ProgramPOOwithProperties\ProgramPOOwithProperties\bin\Debug\net6.0\ProgramPOOwithProperties.dll
+D:\WorkSpace-Projects-Visual-Studio\ProgramPOOwithProperties\ProgramPOOwithProperties\bin\Debug\net6.0\ProgramPOOwithProperties.pdb
+D:\WorkSpace-Projects-Visual-Studio\ProgramPOOwithProperties\ProgramPOOwithProperties\obj\Debug\net6.0\ProgramPOOwithProperties.csproj.AssemblyReference.cache
+D:\WorkSpace-Projects-Visual-Studio\ProgramPOOwithProperties\ProgramPOOwithProperties\obj\Debug\net6.0\ProgramPOOwithProperties.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace-Projects-Visual-Studio\ProgramPOOwithProperties\ProgramPOOwithProperties\obj\Debug\net6.0\ProgramPOOwithProperties.AssemblyInfoInputs.cache
+D:\WorkSpace-Projects-Visual-Studio\ProgramPOOwithProperties\ProgramPOOwithProperties\obj\Debug\net6.0\ProgramPOOwithProperties.AssemblyInfo.cs
+D:\WorkSpace-Projects-Visual-Studio\ProgramPOOwithProperties\ProgramPOOwithProperties\obj\Debug\net6.0\ProgramPOOwithProperties.csproj.CoreCompileInputs.cache
+D:\WorkSpace-Projects-Visual-Studio\ProgramPOOwithProperties\ProgramPOOwithProperties\obj\Debug\net6.0\ProgramPOOwithProperties.dll
+D:\WorkSpace-Projects-Visual-Studio\ProgramPOOwithProperties\ProgramPOOwithProperties\obj\Debug\net6.0\refint\ProgramPOOwithProperties.dll
+D:\WorkSpace-Projects-Visual-Studio\ProgramPOOwithProperties\ProgramPOOwithProperties\obj\Debug\net6.0\ProgramPOOwithProperties.pdb
+D:\WorkSpace-Projects-Visual-Studio\ProgramPOOwithProperties\ProgramPOOwithProperties\obj\Debug\net6.0\ProgramPOOwithProperties.genruntimeconfig.cache
+D:\WorkSpace-Projects-Visual-Studio\ProgramPOOwithProperties\ProgramPOOwithProperties\obj\Debug\net6.0\ref\ProgramPOOwithProperties.dll
