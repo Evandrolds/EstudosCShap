@@ -1,0 +1,15 @@
+D:\WorkSpace-Projects-Visual-Studio\ModificadorDeParametro\ModificadorDeParametro\bin\Debug\net6.0\ModificadorDeParametro.exe
+D:\WorkSpace-Projects-Visual-Studio\ModificadorDeParametro\ModificadorDeParametro\bin\Debug\net6.0\ModificadorDeParametro.deps.json
+D:\WorkSpace-Projects-Visual-Studio\ModificadorDeParametro\ModificadorDeParametro\bin\Debug\net6.0\ModificadorDeParametro.runtimeconfig.json
+D:\WorkSpace-Projects-Visual-Studio\ModificadorDeParametro\ModificadorDeParametro\bin\Debug\net6.0\ModificadorDeParametro.dll
+D:\WorkSpace-Projects-Visual-Studio\ModificadorDeParametro\ModificadorDeParametro\bin\Debug\net6.0\ModificadorDeParametro.pdb
+D:\WorkSpace-Projects-Visual-Studio\ModificadorDeParametro\ModificadorDeParametro\obj\Debug\net6.0\ModificadorDeParametro.csproj.AssemblyReference.cache
+D:\WorkSpace-Projects-Visual-Studio\ModificadorDeParametro\ModificadorDeParametro\obj\Debug\net6.0\ModificadorDeParametro.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace-Projects-Visual-Studio\ModificadorDeParametro\ModificadorDeParametro\obj\Debug\net6.0\ModificadorDeParametro.AssemblyInfoInputs.cache
+D:\WorkSpace-Projects-Visual-Studio\ModificadorDeParametro\ModificadorDeParametro\obj\Debug\net6.0\ModificadorDeParametro.AssemblyInfo.cs
+D:\WorkSpace-Projects-Visual-Studio\ModificadorDeParametro\ModificadorDeParametro\obj\Debug\net6.0\ModificadorDeParametro.csproj.CoreCompileInputs.cache
+D:\WorkSpace-Projects-Visual-Studio\ModificadorDeParametro\ModificadorDeParametro\obj\Debug\net6.0\ModificadorDeParametro.dll
+D:\WorkSpace-Projects-Visual-Studio\ModificadorDeParametro\ModificadorDeParametro\obj\Debug\net6.0\refint\ModificadorDeParametro.dll
+D:\WorkSpace-Projects-Visual-Studio\ModificadorDeParametro\ModificadorDeParametro\obj\Debug\net6.0\ModificadorDeParametro.pdb
+D:\WorkSpace-Projects-Visual-Studio\ModificadorDeParametro\ModificadorDeParametro\obj\Debug\net6.0\ModificadorDeParametro.genruntimeconfig.cache
+D:\WorkSpace-Projects-Visual-Studio\ModificadorDeParametro\ModificadorDeParametro\obj\Debug\net6.0\ref\ModificadorDeParametro.dll
