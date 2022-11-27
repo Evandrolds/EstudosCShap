@@ -1,0 +1,15 @@
+D:\WorkSpace-Projects-Visual-Studio\TrabalhandoComVetores\TrabalhandoComVetores\bin\Debug\net6.0\TrabalhandoComVetores.exe
+D:\WorkSpace-Projects-Visual-Studio\TrabalhandoComVetores\TrabalhandoComVetores\bin\Debug\net6.0\TrabalhandoComVetores.deps.json
+D:\WorkSpace-Projects-Visual-Studio\TrabalhandoComVetores\TrabalhandoComVetores\bin\Debug\net6.0\TrabalhandoComVetores.runtimeconfig.json
+D:\WorkSpace-Projects-Visual-Studio\TrabalhandoComVetores\TrabalhandoComVetores\bin\Debug\net6.0\TrabalhandoComVetores.dll
+D:\WorkSpace-Projects-Visual-Studio\TrabalhandoComVetores\TrabalhandoComVetores\bin\Debug\net6.0\TrabalhandoComVetores.pdb
+D:\WorkSpace-Projects-Visual-Studio\TrabalhandoComVetores\TrabalhandoComVetores\obj\Debug\net6.0\TrabalhandoComVetores.csproj.AssemblyReference.cache
+D:\WorkSpace-Projects-Visual-Studio\TrabalhandoComVetores\TrabalhandoComVetores\obj\Debug\net6.0\TrabalhandoComVetores.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace-Projects-Visual-Studio\TrabalhandoComVetores\TrabalhandoComVetores\obj\Debug\net6.0\TrabalhandoComVetores.AssemblyInfoInputs.cache
+D:\WorkSpace-Projects-Visual-Studio\TrabalhandoComVetores\TrabalhandoComVetores\obj\Debug\net6.0\TrabalhandoComVetores.AssemblyInfo.cs
+D:\WorkSpace-Projects-Visual-Studio\TrabalhandoComVetores\TrabalhandoComVetores\obj\Debug\net6.0\TrabalhandoComVetores.csproj.CoreCompileInputs.cache
+D:\WorkSpace-Projects-Visual-Studio\TrabalhandoComVetores\TrabalhandoComVetores\obj\Debug\net6.0\TrabalhandoComVetores.dll
+D:\WorkSpace-Projects-Visual-Studio\TrabalhandoComVetores\TrabalhandoComVetores\obj\Debug\net6.0\refint\TrabalhandoComVetores.dll
+D:\WorkSpace-Projects-Visual-Studio\TrabalhandoComVetores\TrabalhandoComVetores\obj\Debug\net6.0\TrabalhandoComVetores.pdb
+D:\WorkSpace-Projects-Visual-Studio\TrabalhandoComVetores\TrabalhandoComVetores\obj\Debug\net6.0\TrabalhandoComVetores.genruntimeconfig.cache
+D:\WorkSpace-Projects-Visual-Studio\TrabalhandoComVetores\TrabalhandoComVetores\obj\Debug\net6.0\ref\TrabalhandoComVetores.dll

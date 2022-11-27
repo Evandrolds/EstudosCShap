@@ -6,7 +6,6 @@ namespace CalcularAreaDoTriangulo_X_Y;
 class Application {
     static void Main(string[] args) {
         Triangulo x, y;
-        area= new Triangulo();
         x = new Triangulo();
         y = new Triangulo();
 
