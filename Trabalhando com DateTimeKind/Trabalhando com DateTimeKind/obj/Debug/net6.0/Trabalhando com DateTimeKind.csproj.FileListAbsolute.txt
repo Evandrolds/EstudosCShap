@@ -1,0 +1,15 @@
+D:\WorkSpace-Projects-Visual-Studio\Trabalhando com DateTimeKind\Trabalhando com DateTimeKind\bin\Debug\net6.0\Trabalhando com DateTimeKind.exe
+D:\WorkSpace-Projects-Visual-Studio\Trabalhando com DateTimeKind\Trabalhando com DateTimeKind\bin\Debug\net6.0\Trabalhando com DateTimeKind.deps.json
+D:\WorkSpace-Projects-Visual-Studio\Trabalhando com DateTimeKind\Trabalhando com DateTimeKind\bin\Debug\net6.0\Trabalhando com DateTimeKind.runtimeconfig.json
+D:\WorkSpace-Projects-Visual-Studio\Trabalhando com DateTimeKind\Trabalhando com DateTimeKind\bin\Debug\net6.0\Trabalhando com DateTimeKind.dll
+D:\WorkSpace-Projects-Visual-Studio\Trabalhando com DateTimeKind\Trabalhando com DateTimeKind\bin\Debug\net6.0\Trabalhando com DateTimeKind.pdb
+D:\WorkSpace-Projects-Visual-Studio\Trabalhando com DateTimeKind\Trabalhando com DateTimeKind\obj\Debug\net6.0\Trabalhando com DateTimeKind.csproj.AssemblyReference.cache
+D:\WorkSpace-Projects-Visual-Studio\Trabalhando com DateTimeKind\Trabalhando com DateTimeKind\obj\Debug\net6.0\Trabalhando com DateTimeKind.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace-Projects-Visual-Studio\Trabalhando com DateTimeKind\Trabalhando com DateTimeKind\obj\Debug\net6.0\Trabalhando com DateTimeKind.AssemblyInfoInputs.cache
+D:\WorkSpace-Projects-Visual-Studio\Trabalhando com DateTimeKind\Trabalhando com DateTimeKind\obj\Debug\net6.0\Trabalhando com DateTimeKind.AssemblyInfo.cs
+D:\WorkSpace-Projects-Visual-Studio\Trabalhando com DateTimeKind\Trabalhando com DateTimeKind\obj\Debug\net6.0\Trabalhando com DateTimeKind.csproj.CoreCompileInputs.cache
+D:\WorkSpace-Projects-Visual-Studio\Trabalhando com DateTimeKind\Trabalhando com DateTimeKind\obj\Debug\net6.0\Trabalhando com DateTimeKind.dll
+D:\WorkSpace-Projects-Visual-Studio\Trabalhando com DateTimeKind\Trabalhando com DateTimeKind\obj\Debug\net6.0\refint\Trabalhando com DateTimeKind.dll
+D:\WorkSpace-Projects-Visual-Studio\Trabalhando com DateTimeKind\Trabalhando com DateTimeKind\obj\Debug\net6.0\Trabalhando com DateTimeKind.pdb
+D:\WorkSpace-Projects-Visual-Studio\Trabalhando com DateTimeKind\Trabalhando com DateTimeKind\obj\Debug\net6.0\Trabalhando com DateTimeKind.genruntimeconfig.cache
+D:\WorkSpace-Projects-Visual-Studio\Trabalhando com DateTimeKind\Trabalhando com DateTimeKind\obj\Debug\net6.0\ref\Trabalhando com DateTimeKind.dll
