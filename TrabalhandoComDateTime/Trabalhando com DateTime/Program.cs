@@ -21,7 +21,7 @@ class Apllication {
         DateTime d4 = DateTime.Today;
         Console.WriteLine(d4);
 
-        // Pegando a data e hora com o fuso horario UTC do GMT lá no Benoit
+        // Pegando a data e hora com o  fuso horário GMT (Greenwich Mean Time)
         DateTime d5 = DateTime.UtcNow;
         Console.WriteLine(d5);
 
@@ -32,6 +32,10 @@ class Apllication {
         //Passando uma formatação de data e hora com a máscara no padrao brasileiro
         DateTime d7 = DateTime.ParseExact("11-12-1900 19:45:36" ,"dd-MM-yyyy HH:mm:ss",CultureInfo.InvariantCulture);
         Console.WriteLine(d7);  
+
+        // Convertendo a data e hora local para uma string
+        string d8 = d1.ToLocalTime().ToString();
+        Console.WriteLine(d8);
 
     }
 }
