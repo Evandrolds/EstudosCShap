@@ -1,0 +1,15 @@
+D:\WorkSpace-Projects-Visual-Studio\Trabalhando Com DataTimeSpan\Trabalhando Com DataTimeSpan\bin\Debug\net6.0\Trabalhando Com DataTimeSpan.exe
+D:\WorkSpace-Projects-Visual-Studio\Trabalhando Com DataTimeSpan\Trabalhando Com DataTimeSpan\bin\Debug\net6.0\Trabalhando Com DataTimeSpan.deps.json
+D:\WorkSpace-Projects-Visual-Studio\Trabalhando Com DataTimeSpan\Trabalhando Com DataTimeSpan\bin\Debug\net6.0\Trabalhando Com DataTimeSpan.runtimeconfig.json
+D:\WorkSpace-Projects-Visual-Studio\Trabalhando Com DataTimeSpan\Trabalhando Com DataTimeSpan\bin\Debug\net6.0\Trabalhando Com DataTimeSpan.dll
+D:\WorkSpace-Projects-Visual-Studio\Trabalhando Com DataTimeSpan\Trabalhando Com DataTimeSpan\bin\Debug\net6.0\Trabalhando Com DataTimeSpan.pdb
+D:\WorkSpace-Projects-Visual-Studio\Trabalhando Com DataTimeSpan\Trabalhando Com DataTimeSpan\obj\Debug\net6.0\Trabalhando Com DataTimeSpan.csproj.AssemblyReference.cache
+D:\WorkSpace-Projects-Visual-Studio\Trabalhando Com DataTimeSpan\Trabalhando Com DataTimeSpan\obj\Debug\net6.0\Trabalhando Com DataTimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace-Projects-Visual-Studio\Trabalhando Com DataTimeSpan\Trabalhando Com DataTimeSpan\obj\Debug\net6.0\Trabalhando Com DataTimeSpan.AssemblyInfoInputs.cache
+D:\WorkSpace-Projects-Visual-Studio\Trabalhando Com DataTimeSpan\Trabalhando Com DataTimeSpan\obj\Debug\net6.0\Trabalhando Com DataTimeSpan.AssemblyInfo.cs
+D:\WorkSpace-Projects-Visual-Studio\Trabalhando Com DataTimeSpan\Trabalhando Com DataTimeSpan\obj\Debug\net6.0\Trabalhando Com DataTimeSpan.csproj.CoreCompileInputs.cache
+D:\WorkSpace-Projects-Visual-Studio\Trabalhando Com DataTimeSpan\Trabalhando Com DataTimeSpan\obj\Debug\net6.0\Trabalhando Com DataTimeSpan.dll
+D:\WorkSpace-Projects-Visual-Studio\Trabalhando Com DataTimeSpan\Trabalhando Com DataTimeSpan\obj\Debug\net6.0\refint\Trabalhando Com DataTimeSpan.dll
+D:\WorkSpace-Projects-Visual-Studio\Trabalhando Com DataTimeSpan\Trabalhando Com DataTimeSpan\obj\Debug\net6.0\Trabalhando Com DataTimeSpan.pdb
+D:\WorkSpace-Projects-Visual-Studio\Trabalhando Com DataTimeSpan\Trabalhando Com DataTimeSpan\obj\Debug\net6.0\Trabalhando Com DataTimeSpan.genruntimeconfig.cache
+D:\WorkSpace-Projects-Visual-Studio\Trabalhando Com DataTimeSpan\Trabalhando Com DataTimeSpan\obj\Debug\net6.0\ref\Trabalhando Com DataTimeSpan.dll
